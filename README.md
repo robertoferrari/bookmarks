@@ -5,5 +5,7 @@ Programming Bookmarks
 
 ### Visual Studio
 
-[Download .NET SDKs for Visual Studio](https://dotnet.microsoft.com/download/visual-studio-sdks)
+- [.NET](https://dotnet.microsoft.com/)
+- [Download .NET](https://dotnet.microsoft.com/download)
+- [Download .NET SDKs for Visual Studio](https://dotnet.microsoft.com/download/visual-studio-sdks)
 
