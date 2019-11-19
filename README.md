@@ -15,6 +15,7 @@ Programming Bookmarks
 - [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes)
 - [Dragablz](https://www.nuget.org/packages/Dragablz)
 - [NLog](https://www.nuget.org/packages/NLog)
+- [EPPlus](https://www.nuget.org/packages/EPPlus/)
 
 ## Visual Studio Code
 
