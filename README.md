@@ -11,7 +11,7 @@ Programming Bookmarks
 
 #### NuGet Packages
 
-- [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : ResourceDictionary instances containing Material Design templates and styles for WPF controls in the MahApps library
+- [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : Material Design templates and styles for WPF controls in the MahApps library
 - [Dragablz](https://www.nuget.org/packages/Dragablz) : Dragable and tearable tab control for WPF
 - [NLog](https://www.nuget.org/packages/NLog) : Logging platform for .NET with rich log routing and management capabilities
 - [EPPlus](https://www.nuget.org/packages/EPPlus/) : Create advanced Excel spreadsheets using .NET
