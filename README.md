@@ -16,7 +16,7 @@ Programming Bookmarks
 - [NLog](https://www.nuget.org/packages/NLog) : Logging platform for .NET with rich log routing and management capabilities
 - [EPPlus](https://www.nuget.org/packages/EPPlus/) : Create advanced Excel spreadsheets using .NET
 - [RestSharp](https://www.nuget.org/packages/RestSharp/) : Simple REST and HTTP API Client
-- [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET/)
+- [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET/) : A string composition library that can format data into a string with a minimal, intuitive syntax
 
 ## Visual Studio Code
 
