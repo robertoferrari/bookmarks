@@ -11,10 +11,10 @@ Programming Bookmarks
 
 #### NuGet Packages
 
-- [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : Material Design templates and styles for WPF controls in the MahApps library
 - [Dragablz](https://www.nuget.org/packages/Dragablz) : Dragable and tearable tab control for WPF
-- [NLog](https://www.nuget.org/packages/NLog) : Logging platform for .NET with rich log routing and management capabilities
 - [EPPlus](https://www.nuget.org/packages/EPPlus/) : Create advanced Excel spreadsheets using .NET
+- [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : Material Design templates and styles for WPF controls in the MahApps library
+- [NLog](https://www.nuget.org/packages/NLog) : Logging platform for .NET with rich log routing and management capabilities
 - [RestSharp](https://www.nuget.org/packages/RestSharp/) : Simple REST and HTTP API Client
 - [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET/) : A string composition library that can format data into a string with a minimal, intuitive syntax
 
