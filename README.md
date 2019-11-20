@@ -15,6 +15,7 @@ Programming Bookmarks
 - [Dragablz](https://www.nuget.org/packages/Dragablz) : Dragable and tearable tab control for WPF
 - [NLog](https://www.nuget.org/packages/NLog) : Logging platform for .NET with rich log routing and management capabilities
 - [EPPlus](https://www.nuget.org/packages/EPPlus/) : Create advanced Excel spreadsheets using .NET
+- [RestSharp](https://www.nuget.org/packages/RestSharp/) : Simple REST and HTTP API Client
 
 ## Visual Studio Code
 
