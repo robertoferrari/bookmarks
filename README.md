@@ -24,3 +24,7 @@ Programming Bookmarks
 
 - [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
 
+## Javascript
+
+- [Mithril](https://mithril.js.org/) : Modern client-side JavaScript framework for building Single Page Applications
+
