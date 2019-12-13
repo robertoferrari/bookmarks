@@ -23,6 +23,7 @@ Programming Bookmarks
 ### Extensions Marketplace
 
 - [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 ## Javascript
 
