@@ -18,6 +18,7 @@ Programming Bookmarks
 - [ExcelDataReader](https://www.nuget.org/packages/ExcelDataReader) : ibrary for reading Microsoft Excel files (2.0-2007).
 - [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : material Design templates and styles for WPF controls in the MahApps library
 - [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) : JSON framework for .NET
+- [Octokit](https://www.nuget.org/packages/Octokit) : an async-based GitHub API client library
 - [NLog](https://www.nuget.org/packages/NLog) : logging platform for .NET with rich log routing and management capabilities
 - [RestSharp](https://www.nuget.org/packages/RestSharp) : simple REST and HTTP API Client
 - [SharpZipLib](https://www.nuget.org/packages/SharpZipLib) : compression library for Zip, GZip, BZip2, and Tar
