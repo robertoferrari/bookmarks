@@ -12,7 +12,7 @@ Programming Bookmarks
 #### NuGet Packages
 
 - [CsvHelper](https://www.nuget.org/packages/CsvHelper) : a library for reading and writing CSV files
-- [DiffPlex] (https://www.nuget.org/packages/DiffPlex) : diffing library that allows you to programatically create text diffs
+- [DiffPlex](https://www.nuget.org/packages/DiffPlex) : diffing library that allows you to programatically create text diffs
 - [Dragablz](https://www.nuget.org/packages/Dragablz) : dragable and tearable tab control for WPF
 - [EPPlus](https://www.nuget.org/packages/EPPlus) : create advanced Excel spreadsheets using .NET
 - [ExcelDataReader](https://www.nuget.org/packages/ExcelDataReader) : ibrary for reading Microsoft Excel files (2.0-2007).
