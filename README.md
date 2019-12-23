@@ -15,7 +15,8 @@ Programming Bookmarks
 - [DiffPlex](https://www.nuget.org/packages/DiffPlex) : diffing library that allows you to programatically create text diffs
 - [Dragablz](https://www.nuget.org/packages/Dragablz) : dragable and tearable tab control for WPF
 - [EPPlus](https://www.nuget.org/packages/EPPlus) : create advanced Excel spreadsheets using .NET
-- [ExcelDataReader](https://www.nuget.org/packages/ExcelDataReader) : ibrary for reading Microsoft Excel files (2.0-2007).
+- [ExcelDataReader](https://www.nuget.org/packages/ExcelDataReader) : ibrary for reading Microsoft Excel files (2.0-2007)
+- [FluentFTP](https://www.nuget.org/packages/FluentFTP) : FTP and FTPS client
 - [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : material Design templates and styles for WPF controls in the MahApps library
 - [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) : JSON framework for .NET
 - [NLog](https://www.nuget.org/packages/NLog) : logging platform for .NET with rich log routing and management capabilities
