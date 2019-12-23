@@ -11,13 +11,17 @@ Programming Bookmarks
 
 #### NuGet Packages
 
-- [CsvHelper](https://www.nuget.org/packages/CsvHelper/) : A library for reading and writing CSV files
-- [Dragablz](https://www.nuget.org/packages/Dragablz) : Dragable and tearable tab control for WPF
-- [EPPlus](https://www.nuget.org/packages/EPPlus/) : Create advanced Excel spreadsheets using .NET
-- [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : Material Design templates and styles for WPF controls in the MahApps library
-- [NLog](https://www.nuget.org/packages/NLog) : Logging platform for .NET with rich log routing and management capabilities
-- [RestSharp](https://www.nuget.org/packages/RestSharp/) : Simple REST and HTTP API Client
-- [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET/) : A string composition library that can format data into a string with a minimal, intuitive syntax
+- [CsvHelper](https://www.nuget.org/packages/CsvHelper) : a library for reading and writing CSV files
+- [DiffPlex] (https://www.nuget.org/packages/DiffPlex) : diffing library that allows you to programatically create text diffs
+- [Dragablz](https://www.nuget.org/packages/Dragablz) : dragable and tearable tab control for WPF
+- [EPPlus](https://www.nuget.org/packages/EPPlus) : create advanced Excel spreadsheets using .NET
+- [ExcelDataReader](https://www.nuget.org/packages/ExcelDataReader) : ibrary for reading Microsoft Excel files (2.0-2007).
+- [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : material Design templates and styles for WPF controls in the MahApps library
+- [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) : JSON framework for .NET
+- [NLog](https://www.nuget.org/packages/NLog) : logging platform for .NET with rich log routing and management capabilities
+- [RestSharp](https://www.nuget.org/packages/RestSharp) : simple REST and HTTP API Client
+- [SharpZipLib](https://www.nuget.org/packages/SharpZipLib) : compression library for Zip, GZip, BZip2, and Tar
+- [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET) : a string composition library that can format data into a string with a minimal, intuitive syntax
 
 
 ## Visual Studio Code
