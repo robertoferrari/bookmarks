@@ -11,7 +11,7 @@ Programming Bookmarks
 
 #### NuGet Packages
 
-- [CsvHelper] (https://www.nuget.org/packages/CsvHelper/) : A library for reading and writing CSV files
+- [CsvHelper](https://www.nuget.org/packages/CsvHelper/) : A library for reading and writing CSV files
 - [Dragablz](https://www.nuget.org/packages/Dragablz) : Dragable and tearable tab control for WPF
 - [EPPlus](https://www.nuget.org/packages/EPPlus/) : Create advanced Excel spreadsheets using .NET
 - [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : Material Design templates and styles for WPF controls in the MahApps library
