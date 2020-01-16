@@ -40,5 +40,7 @@ Programming Bookmarks
 ## Utilities
 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) : Fake Online REST API for Testing and Prototyping
-- [yarn]() : Fast, reliable, and secure dependency management.
+- [yarn](https://yarnpkg.com/lang/en/) : Fast, reliable, and secure dependency management
+- [Composer](https://getcomposer.org/) : A Dependency Manager for PHP
+- [Packagist](https://packagist.org/) : The main Composer repository: it aggregates public PHP packages installable with Composer
 
