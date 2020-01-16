@@ -36,4 +36,5 @@ Programming Bookmarks
 ## Javascript
 
 - [Mithril](https://mithril.js.org/) : Modern client-side JavaScript framework for building Single Page Applications
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) : Fake Online REST API for Testing and Prototyping
 
