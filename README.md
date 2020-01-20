@@ -25,14 +25,22 @@ Programming Bookmarks
 - [SharpZipLib](https://www.nuget.org/packages/SharpZipLib) : compression library for Zip, GZip, BZip2, and Tar
 - [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET) : a string composition library that can format data into a string with a minimal, intuitive syntax
 
-
 ## Visual Studio Code
 
-### Extensions Marketplace
+### Extensions [Visual Studio Marketplace](https://marketplace.visualstudio.com/)
 
+- [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+- [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- [phpfmt - PHP formatter](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt)
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 ## Javascript
 
