@@ -11,6 +11,7 @@ Programming Bookmarks
 
 #### NuGet Packages
 
+- [Automapper](https://www.nuget.org/packages/AutoMapper/) : a convention-based object-object mapper
 - [Bogus](https://www.nuget.org/packages/Bogus) : simple and sane fake data generator
 - [CsvHelper](https://www.nuget.org/packages/CsvHelper) : a library for reading and writing CSV files
 - [DiffPlex](https://www.nuget.org/packages/DiffPlex) : diffing library that allows you to programatically create text diffs
