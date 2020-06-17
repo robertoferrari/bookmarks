@@ -14,6 +14,7 @@ Programming Bookmarks
 - [Automapper](https://www.nuget.org/packages/AutoMapper/) : a convention-based object-object mapper
 - [Bogus](https://www.nuget.org/packages/Bogus) : simple and sane fake data generator
 - [CsvHelper](https://www.nuget.org/packages/CsvHelper) : a library for reading and writing CSV files
+- [DbUp-SqlServer](https://www.nuget.org/packages/dbup-sqlserver) : makes it easy to deploy and upgrade SQL Server databases by running change scripts
 - [DiffPlex](https://www.nuget.org/packages/DiffPlex) : diffing library that allows you to programatically create text diffs
 - [Dragablz](https://www.nuget.org/packages/Dragablz) : dragable and tearable tab control for WPF
 - [EPPlus](https://www.nuget.org/packages/EPPlus) : create advanced Excel spreadsheets using .NET
