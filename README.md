@@ -27,6 +27,7 @@ Programming Bookmarks
 - [RestSharp](https://www.nuget.org/packages/RestSharp) : simple REST and HTTP API Client
 - [SharpZipLib](https://www.nuget.org/packages/SharpZipLib) : compression library for Zip, GZip, BZip2, and Tar
 - [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET) : a string composition library that can format data into a string with a minimal, intuitive syntax
+- [SqlKata](https://www.nuget.org/packages/SqlKata/) : a powerful Dynamic Sql Query Builder supporting Sql Server, MySql, PostgreSql, Oracle and Firebird
 
 ## Visual Studio Code
 
