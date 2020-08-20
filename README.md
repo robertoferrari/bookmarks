@@ -1,6 +1,29 @@
 # Programming Bookmarks
 Programming Bookmarks
 
+## Software
+
+- [ApexSQL Decrypt](https://www.apexsql.com/sql-tools-decrypt.aspx) : SQL database object decryption
+- [DBComparer](https://dbcomparer.com/) : Free compare database tool
+- [Evolus Pencil](https://pencil.evolus.vn/) : An open-source GUI prototyping tool that's available for ALL platforms
+- [Filezilla](https://filezilla-project.org/) : The free FTP solution
+- [GitHub Desktop](https://desktop.github.com/) : Focus on what matters instead of fighting with Git
+- [LINQPad](https://www.linqpad.net/) : The .NET Programmer’s Playground
+- [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) : Integrated environment for managing any SQL infrastructure
+- [Microsoft Visual Studio 2019](https://visualstudio.microsoft.com/it/vs/) : Ambiente di sviluppo integrato
+- [MySQL Workbench](https://www.mysql.com/it/products/workbench/) : Unified visual tool for database architects, developers, and DBAs
+- [Postman](https://www.postman.com/) : The Collaboration Platform for API Development
+- [Typora](https://typora.io/) : A truly minimal markdown editor
+- [Visual Studio Code](https://code.visualstudio.com/) : Code editing redefined
+- [WampServer](https://www.wampserver.com/en/) : A Windows web development environment
+
+## Utilities
+
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) : Fake Online REST API for Testing and Prototyping
+- [yarn](https://yarnpkg.com/lang/en/) : Fast, reliable, and secure dependency management
+- [Composer](https://getcomposer.org/) : A Dependency Manager for PHP
+- [Packagist](https://packagist.org/) : The main Composer repository: it aggregates public PHP packages installable with Composer
+
 ## Microsoft
 
 ### Visual Studio
@@ -49,29 +72,6 @@ Programming Bookmarks
 ## Javascript
 
 - [Mithril](https://mithril.js.org/) : Modern client-side JavaScript framework for building Single Page Applications
-
-## Utilities
-
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) : Fake Online REST API for Testing and Prototyping
-- [yarn](https://yarnpkg.com/lang/en/) : Fast, reliable, and secure dependency management
-- [Composer](https://getcomposer.org/) : A Dependency Manager for PHP
-- [Packagist](https://packagist.org/) : The main Composer repository: it aggregates public PHP packages installable with Composer
-
-## Software
-
-- [ApexSQL Decrypt](https://www.apexsql.com/sql-tools-decrypt.aspx) : SQL database object decryption
-- [DBComparer](https://dbcomparer.com/) : Free compare database tool
-- [Evolus Pencil](https://pencil.evolus.vn/) : An open-source GUI prototyping tool that's available for ALL platforms
-- [Filezilla](https://filezilla-project.org/) : The free FTP solution
-- [GitHub Desktop](https://desktop.github.com/) : Focus on what matters instead of fighting with Git
-- [LINQPad](https://www.linqpad.net/) : The .NET Programmer’s Playground
-- [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) : Integrated environment for managing any SQL infrastructure
-- [Microsoft Visual Studio 2019](https://visualstudio.microsoft.com/it/vs/) : Ambiente di sviluppo integrato
-- [MySQL Workbench](https://www.mysql.com/it/products/workbench/) : Unified visual tool for database architects, developers, and DBAs
-- [Postman](https://www.postman.com/) : The Collaboration Platform for API Development
-- [Typora](https://typora.io/) : A truly minimal markdown editor
-- [Visual Studio Code](https://code.visualstudio.com/) : Code editing redefined
-- [WampServer](https://www.wampserver.com/en/) : A Windows web development environment
 
 
 
