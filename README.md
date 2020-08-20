@@ -59,9 +59,15 @@ Programming Bookmarks
 
 ## Software
 
-- [Typora](https://typora.io/) : A truly minimal markdown editor
+- [ApexSQL Decrypt](https://www.apexsql.com/sql-tools-decrypt.aspx) : SQL database object decryption
+- [DBComparer](https://dbcomparer.com/) : Free compare database tool
+- [Filezilla](https://filezilla-project.org/) : The free FTP solution
 - [GitHub Desktop](https://desktop.github.com/) : Focus on what matters instead of fighting with Git
+- [LINQPad](https://www.linqpad.net/) : The .NET Programmer’s Playground
+- [MySQL Workbench](https://www.mysql.com/it/products/workbench/) : Unified visual tool for database architects, developers, and DBAs
 - [Postman](https://www.postman.com/) : The Collaboration Platform for API Development
+- [Typora](https://typora.io/) : A truly minimal markdown editor
+- [Visual Studio Code](https://code.visualstudio.com/) : Code editing- Redefined.
 
 
 
