@@ -57,3 +57,11 @@ Programming Bookmarks
 - [Composer](https://getcomposer.org/) : A Dependency Manager for PHP
 - [Packagist](https://packagist.org/) : The main Composer repository: it aggregates public PHP packages installable with Composer
 
+## Software
+
+- [Typora](https://typora.io/) : A truly minimal markdown editor
+- [GitHub Desktop](https://desktop.github.com/) : Focus on what matters instead of fighting with Git
+- [Postman](https://www.postman.com/) : The Collaboration Platform for API Development
+
+
+
