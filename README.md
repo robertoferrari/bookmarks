@@ -45,6 +45,7 @@ Programming Bookmarks
 - [FluentFTP](https://www.nuget.org/packages/FluentFTP) : FTP and FTPS client
 - [Flurl](https://www.nuget.org/packages/Flurl) : A fluent, portable URL builder
 - [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : material Design templates and styles for WPF controls in the MahApps library
+- [MaterialDesignExtensions](https://www.nuget.org/packages/MaterialDesignExtensions) : provide additional controls and features for WPF apps
 - [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) : JSON framework for .NET
 - [NLog](https://www.nuget.org/packages/NLog) : logging platform for .NET with rich log routing and management capabilities
 - [Octokit](https://www.nuget.org/packages/Octokit) : an async-based GitHub API client library
