@@ -79,6 +79,6 @@ Programming Bookmarks
 
 - [Iconpacks](https://www.iconpacks.net) : Free PNG, SVG icons
 - [Unsplash](https://unsplash.com) : Beautiful Free Images & Pictures
--[Dynamic Dummy Image Generator](https://dummyimage.com) : Create dummy image links
+- [Dynamic Dummy Image Generator](https://dummyimage.com) : Create dummy image links
 
 
