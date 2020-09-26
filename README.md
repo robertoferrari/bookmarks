@@ -75,5 +75,10 @@ Programming Bookmarks
 
 - [Mithril](https://mithril.js.org/) : Modern client-side JavaScript framework for building Single Page Applications
 
+## Resources
+
+- [Iconpacks](https://www.iconpacks.net) : Free PNG, SVG icons
+- [Unsplash](https://unsplash.com) : Beautiful Free Images & Pictures
+
 
 
