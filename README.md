@@ -30,6 +30,7 @@ Programming Bookmarks
 
 - [anaseqal/nova-sidebar-icons](https://github.com/anaseqal/nova-sidebar-icons) : Nova Sidebar Icons (& collapsible group)
 - [Benjacho/belongs-to-many-field-nova](https://github.com/Benjacho/belongs-to-many-field-nova) : Belongs To Many Field Nova With Dependant
+- [chris-ware/nova-breadcrumbs](https://github.com/chris-ware/nova-breadcrumbs) : Nova Breadcrumbs
 - [codenco-dev/nova-grid-system](https://github.com/codenco-dev/nova-grid-system) : Nova Grid System
 - [coderello/laravel-nova-lang](https://github.com/coderello/laravel-nova-lang) : Laravel Nova Lang
 - [davidpiesse/nova-map](https://github.com/davidpiesse/nova-map) : Map Field
