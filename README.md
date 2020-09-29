@@ -24,7 +24,7 @@ Programming Bookmarks
 - [Composer](https://getcomposer.org/) : A Dependency Manager for PHP
 - [Packagist](https://packagist.org/) : The main Composer repository: it aggregates public PHP packages installable with Composer
 
-##Laravel
+## Laravel
 
 ### Laravel Nova
 
@@ -39,7 +39,13 @@ Programming Bookmarks
 - [GeneaLabs/nova-gutenberg](https://github.com/GeneaLabs/nova-gutenberg) : Nova Gutenberg
 - [gregoriohc/laravel-nova-theme-responsive](https://github.com/gregoriohc/laravel-nova-theme-responsive) : Laravel Nova Responsive Theme
 - [inspheric/nova-defaultable-fields](https://github.com/inspheric/nova-defaultable-fields) : Laravel Nova Defaultable Fields
-
+- [inspheric/nova-email-field](https://github.com/inspheric/nova-email-field ) : Laravel Nova Email Field
+- [inspheric/nova-url-field](https://github.com/inspheric/nova-url-field) : Laravel Nova URL Field
+- [izi-dev/nova-field-date-picker](https://github.com/izi-dev/nova-field-date-picker) : Laravel Nova Field Super DatePicker
+- [kirschbaum-development/nova-inline-relationship](https://github.com/kirschbaum-development/nova-inline-relationship) : Nova Inline Relationship 
+- [Maatwebsite/Laravel-Nova-Excel](https://github.com/Maatwebsite/Laravel-Nova-Excel/) : Supercharge your Laravel Nova resource exports
+- [MohmmedAshraf/nova-hidden-field](https://github.com/MohmmedAshraf/nova-hidden-field) : Laravel Nova Hidden Field
+- [oleghalin/nova-link-field](https://github.com/oleghalin/nova-link-field/) : Laravel Nova Link Field
 
 ## Microsoft
 
