@@ -28,7 +28,7 @@ Programming Bookmarks
 
 ### Laravel Nova
 
-- [epartment/nova-dependency-container](https:// github.com/epartment/nova-dependency-container) : Nova Field Dependency Container
+- [epartment/nova-dependency-container](https://github.com/epartment/nova-dependency-container) : Nova Field Dependency Container
 - [anaseqal/nova-sidebar-icons](https://github.com/anaseqal/nova-sidebar-icons) : Nova Sidebar Icons (& collapsible group)
 - [Benjacho/belongs-to-many-field-nova](https://github.com/Benjacho/belongs-to-many-field-nova) : Belongs To Many Field Nova With Dependant
 - [coderello/laravel-nova-lang](https://github.com/coderello/laravel-nova-lang) : Laravel Nova Lang
