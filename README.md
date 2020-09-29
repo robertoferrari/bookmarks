@@ -46,6 +46,13 @@ Programming Bookmarks
 - [Maatwebsite/Laravel-Nova-Excel](https://github.com/Maatwebsite/Laravel-Nova-Excel/) : Supercharge your Laravel Nova resource exports
 - [MohmmedAshraf/nova-hidden-field](https://github.com/MohmmedAshraf/nova-hidden-field) : Laravel Nova Hidden Field
 - [oleghalin/nova-link-field](https://github.com/oleghalin/nova-link-field/) : Laravel Nova Link Field
+- [orlyapps/nova-belongsto-depend](https://github.com/orlyapps/nova-belongsto-depend) : BelongsTo Field with Dependency
+- [simplesquid/nova-advanced-number-field](https://github.com/simplesquid/nova-advanced-number-field) : An advanced number field for Laravel Nova
+- [spatie/nova-tags-field])https://github.com/spatie/nova-tags-field) : A tags field for Nova apps
+- [techouse/intl-date-time](https://github.com/techouse/intl-date-time) : International DateTime
+- [TitasGailius/nova-search-relations](https://github.com/TitasGailius/nova-search-relations) : Search relationships in Laravel Nova
+- [whitecube/nova-page](https://github.com/whitecube/nova-page) : Nova Page
+- [codenco-dev/nova-grid-system](https://github.com/codenco-dev/nova-grid-system) : Nova Grid System
 
 ## Microsoft
 
