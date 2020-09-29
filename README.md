@@ -26,6 +26,10 @@ Programming Bookmarks
 
 ## Laravel
 
+- [Laravel](https://laravel.com/) : The PHP Framework for Web Artisans
+- [Laravel Documentation](https://laravel.com/docs/8.x)
+- [Laravel Nova](https://nova.laravel.com/) : Beautifully-designed administration panel for Laravel
+
 ### Laravel Nova
 
 - [anaseqal/nova-sidebar-icons](https://github.com/anaseqal/nova-sidebar-icons) : Nova Sidebar Icons (& collapsible group)
