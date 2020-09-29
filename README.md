@@ -24,6 +24,23 @@ Programming Bookmarks
 - [Composer](https://getcomposer.org/) : A Dependency Manager for PHP
 - [Packagist](https://packagist.org/) : The main Composer repository: it aggregates public PHP packages installable with Composer
 
+##Laravel
+
+### Laravel Nova
+
+- [epartment/nova-dependency-container](https:// github.com/epartment/nova-dependency-container) : Nova Field Dependency Container
+- [anaseqal/nova-sidebar-icons](https://github.com/anaseqal/nova-sidebar-icons) : Nova Sidebar Icons (& collapsible group)
+- [Benjacho/belongs-to-many-field-nova](https://github.com/Benjacho/belongs-to-many-field-nova) : Belongs To Many Field Nova With Dependant
+- [coderello/laravel-nova-lang](https://github.com/coderello/laravel-nova-lang) : Laravel Nova Lang
+- [davidpiesse/nova-map](https://github.com/davidpiesse/nova-map) : Map Field
+- [GeneaLabs/nova-map-marker-field](https://github.com/GeneaLabs/nova-map-marker-field) : Map Marker Field for Laravel Nova
+- [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) : Laravel Advanced Nova Media Library
+- [eminiarts/nova-tabs](https://github.com/eminiarts/nova-tabs) : Laravel Nova Tabs Package
+- [GeneaLabs/nova-gutenberg](https://github.com/GeneaLabs/nova-gutenberg) : Nova Gutenberg
+- [gregoriohc/laravel-nova-theme-responsive](https://github.com/gregoriohc/laravel-nova-theme-responsive) : Laravel Nova Responsive Theme
+- [inspheric/nova-defaultable-fields](https://github.com/inspheric/nova-defaultable-fields) : Laravel Nova Defaultable Fields
+
+
 ## Microsoft
 
 ### Visual Studio
