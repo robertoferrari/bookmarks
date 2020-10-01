@@ -36,6 +36,7 @@ Programming Bookmarks
 - [anaseqal/nova-sidebar-icons](https://github.com/anaseqal/nova-sidebar-icons) : Nova Sidebar Icons (& collapsible group)
 - [bayareawebpro/nova-field-ckeditor](https://github.com/bayareawebpro/nova-field-ckeditor) : Laravel Nova - CkEditor v5 Field
 - [Benjacho/belongs-to-many-field-nova](https://github.com/Benjacho/belongs-to-many-field-nova) : Belongs To Many Field Nova With Dependant
+- [bissolli/nova-phone-field](https://github.com/bissolli/nova-phone-field) : A global Phone Number field for Laravel Nova
 - [chris-ware/nova-breadcrumbs](https://github.com/chris-ware/nova-breadcrumbs) : Nova Breadcrumbs
 - [codenco-dev/nova-grid-system](https://github.com/codenco-dev/nova-grid-system) : Nova Grid System
 - [coderello/laravel-nova-lang](https://github.com/coderello/laravel-nova-lang) : Laravel Nova Lang
