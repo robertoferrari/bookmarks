@@ -52,6 +52,7 @@ Programming Bookmarks
 - [inspheric/nova-email-field](https://github.com/inspheric/nova-email-field ) : Laravel Nova Email Field
 - [inspheric/nova-url-field](https://github.com/inspheric/nova-url-field) : Laravel Nova URL Field
 - [izi-dev/nova-field-date-picker](https://github.com/izi-dev/nova-field-date-picker) : Laravel Nova Field Super DatePicker
+- [KABBOUCHI/nova-impersonate](https://github.com/KABBOUCHI/nova-impersonate) : Nova Impersonate Field
 - [kirschbaum-development/nova-inline-relationship](https://github.com/kirschbaum-development/nova-inline-relationship) : Nova Inline Relationship 
 - [Maatwebsite/Laravel-Nova-Excel](https://github.com/Maatwebsite/Laravel-Nova-Excel/) : Supercharge your Laravel Nova resource exports
 - [MohmmedAshraf/nova-hidden-field](https://github.com/MohmmedAshraf/nova-hidden-field) : Laravel Nova Hidden Field
