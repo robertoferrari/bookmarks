@@ -54,6 +54,7 @@ Programming Bookmarks
 - [izi-dev/nova-field-date-picker](https://github.com/izi-dev/nova-field-date-picker) : Laravel Nova Field Super DatePicker
 - [KABBOUCHI/nova-impersonate](https://github.com/KABBOUCHI/nova-impersonate) : Nova Impersonate Field
 - [kirschbaum-development/nova-inline-relationship](https://github.com/kirschbaum-development/nova-inline-relationship) : Nova Inline Relationship 
+- [laraning/nova-time-field](https://github.com/laraning/nova-time-field) : A time field for Laravel Nova applications
 - [Maatwebsite/Laravel-Nova-Excel](https://github.com/Maatwebsite/Laravel-Nova-Excel/) : Supercharge your Laravel Nova resource exports
 - [MohmmedAshraf/nova-hidden-field](https://github.com/MohmmedAshraf/nova-hidden-field) : Laravel Nova Hidden Field
 - [oleghalin/nova-link-field](https://github.com/oleghalin/nova-link-field/) : Laravel Nova Link Field
