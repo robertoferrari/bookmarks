@@ -59,6 +59,7 @@ Programming Bookmarks
 - [michielkempen/nova-polymorphic-field](https://github.com/michielkempen/nova-polymorphic-field) : Nova Polymorphic Field
 - [MohmmedAshraf/nova-hidden-field](https://github.com/MohmmedAshraf/nova-hidden-field) : Laravel Nova Hidden Field
 - [oleghalin/nova-link-field](https://github.com/oleghalin/nova-link-field/) : Laravel Nova Link Field
+- [optimistdigital/nova-multiselect-field](https://github.com/optimistdigital/nova-multiselect-field) : Nova Multiselect
 - [orlyapps/nova-belongsto-depend](https://github.com/orlyapps/nova-belongsto-depend) : BelongsTo Field with Dependency
 - [simplesquid/nova-advanced-number-field](https://github.com/simplesquid/nova-advanced-number-field) : An advanced number field for Laravel Nova
 - [spatie/nova-tags-field](https://github.com/spatie/nova-tags-field) : A tags field for Nova apps
