@@ -42,6 +42,7 @@ Programming Bookmarks
 - [coderello/laravel-nova-lang](https://github.com/coderello/laravel-nova-lang) : Laravel Nova Lang
 - [davidpiesse/nova-map](https://github.com/davidpiesse/nova-map) : Map Field
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) : Laravel Advanced Nova Media Library
+- [emilianotisato/nova-tinymce](https://github.com/emilianotisato/nova-tinymce) : Laravel Nova TinyMCE editor with images upload capabilities!
 - [eminiarts/nova-tabs](https://github.com/eminiarts/nova-tabs) : Laravel Nova Tabs Package
 - [epartment/nova-dependency-container](https://github.com/epartment/nova-dependency-container) : Nova Field Dependency Container
 - [GeneaLabs/nova-gutenberg](https://github.com/GeneaLabs/nova-gutenberg) : Nova Gutenberg
