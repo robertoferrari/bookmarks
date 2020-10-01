@@ -65,6 +65,8 @@ Programming Bookmarks
 - [spatie/nova-tags-field](https://github.com/spatie/nova-tags-field) : A tags field for Nova apps
 - [techouse/intl-date-time](https://github.com/techouse/intl-date-time) : International DateTime
 - [TitasGailius/nova-search-relations](https://github.com/TitasGailius/nova-search-relations) : Search relationships in Laravel Nova
+- [whitecube/nova-flexible-content](https://github.com/whitecube/nova-flexible-content) : Flexible Content
+- [whitecube/nova-google-maps](https://github.com/whitecube/nova-google-maps) : Laravel Nova Google Maps Field
 - [whitecube/nova-page](https://github.com/whitecube/nova-page) : Nova Page
 
 ## Microsoft
