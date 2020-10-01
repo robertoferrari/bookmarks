@@ -56,7 +56,7 @@ Programming Bookmarks
 - [kirschbaum-development/nova-inline-relationship](https://github.com/kirschbaum-development/nova-inline-relationship) : Nova Inline Relationship 
 - [laraning/nova-time-field](https://github.com/laraning/nova-time-field) : A time field for Laravel Nova applications
 - [Maatwebsite/Laravel-Nova-Excel](https://github.com/Maatwebsite/Laravel-Nova-Excel/) : Supercharge your Laravel Nova resource exports
-- **[michielkempen/nova-polymorphic-field](https://github.com/michielkempen/nova-polymorphic-field) : Nova Polymorphic Field**
+- [michielkempen/nova-polymorphic-field](https://github.com/michielkempen/nova-polymorphic-field) : Nova Polymorphic Field
 - [MohmmedAshraf/nova-hidden-field](https://github.com/MohmmedAshraf/nova-hidden-field) : Laravel Nova Hidden Field
 - [oleghalin/nova-link-field](https://github.com/oleghalin/nova-link-field/) : Laravel Nova Link Field
 - [orlyapps/nova-belongsto-depend](https://github.com/orlyapps/nova-belongsto-depend) : BelongsTo Field with Dependency
