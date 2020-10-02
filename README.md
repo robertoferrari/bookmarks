@@ -30,6 +30,7 @@ Programming Bookmarks
 - [Laravel Documentation](https://laravel.com/docs/8.x)
 - [Laravel News](https://laravel-news.com/)
 - [Laravel Nova](https://nova.laravel.com/) : Beautifully-designed administration panel for Laravel
+- [Made with Laravel](https://madewithlaravel.com/) : Laravel showcase
 
 ### Laravel Nova
 
