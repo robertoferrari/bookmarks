@@ -60,6 +60,7 @@ Programming Bookmarks
 - [Maatwebsite/Laravel-Nova-Excel](https://github.com/Maatwebsite/Laravel-Nova-Excel/) : Supercharge your Laravel Nova resource exports
 - [michielkempen/nova-polymorphic-field](https://github.com/michielkempen/nova-polymorphic-field) : Nova Polymorphic Field
 - [MohmmedAshraf/nova-hidden-field](https://github.com/MohmmedAshraf/nova-hidden-field) : Laravel Nova Hidden Field
+- [nsaumini/ellipsis-textarea](https://github.com/nsaumini/ellipsis-textarea) : Nova Ellipsis Textarea
 - [oleghalin/nova-link-field](https://github.com/oleghalin/nova-link-field/) : Laravel Nova Link Field
 - [optimistdigital/nova-multiselect-field](https://github.com/optimistdigital/nova-multiselect-field) : Nova Multiselect
 - [orlyapps/nova-belongsto-depend](https://github.com/orlyapps/nova-belongsto-depend) : BelongsTo Field with Dependency
