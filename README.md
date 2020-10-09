@@ -81,6 +81,7 @@ Programming Bookmarks
 - [Download .NET](https://dotnet.microsoft.com/download)
 - [Download .NET SDKs for Visual Studio](https://dotnet.microsoft.com/download/visual-studio-sdks)
 - [GitHub extension for Visual Studio](https://visualstudio.github.com/) : The easiest way to connect to your GitHub repositories in Visual Studio
+- [Download .NET SDKs for Visual Studio](https://dotnet.microsoft.com/download/visual-studio-sdks)
 
 #### NuGet Packages
 
