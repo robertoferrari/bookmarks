@@ -73,9 +73,7 @@ Programming Bookmarks
 - [whitecube/nova-google-maps](https://github.com/whitecube/nova-google-maps) : Laravel Nova Google Maps Field
 - [whitecube/nova-page](https://github.com/whitecube/nova-page) : Nova Page
 
-## Microsoft
-
-### Visual Studio
+## Visual Studio
 
 - [.NET](https://dotnet.microsoft.com/)
 - [Download .NET](https://dotnet.microsoft.com/download)
@@ -105,6 +103,11 @@ Programming Bookmarks
 - [SharpZipLib](https://www.nuget.org/packages/SharpZipLib) : compression library for Zip, GZip, BZip2, and Tar
 - [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET) : a string composition library that can format data into a string with a minimal, intuitive syntax
 - [SqlKata](https://www.nuget.org/packages/SqlKata/) : a powerful Dynamic Sql Query Builder supporting Sql Server, MySql, PostgreSql, Oracle and Firebird
+
+## Power BI
+
+- [ALM Toolkit](https://www.sqlbi.com/tools/alm-toolkit/) : free and open-source tool to manage Microsoft Power BI datasets
+- [Microsoft Power BI Community](https://community.powerbi.com/) : connect, learn and discuss with business intelligence experts and peers
 
 ## Visual Studio Code
 
