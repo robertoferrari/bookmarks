@@ -17,6 +17,7 @@ Programming Bookmarks
 - [USBWebserver](https://www.usbwebserver.net/webserver/) :  Develop and show your PHP websites everywhere and anytime
 - [Visual Studio Code](https://code.visualstudio.com/) : Code editing redefined
 - [WampServer](https://www.wampserver.com/en/) : A Windows web development environment
+- [WinMerge](https://winmerge.org/) : differencing and merging tool for Windows
 
 ## Utilities
 
