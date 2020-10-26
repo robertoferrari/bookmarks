@@ -65,6 +65,7 @@ Programming Bookmarks
 - [nsaumini/ellipsis-textarea](https://github.com/nsaumini/ellipsis-textarea) : Nova Ellipsis Textarea
 - [oleghalin/nova-link-field](https://github.com/oleghalin/nova-link-field/) : Laravel Nova Link Field
 - [optimistdigital/nova-multiselect-field](https://github.com/optimistdigital/nova-multiselect-field) : Nova Multiselect
+- [optimistdigital/nova-notes-field](https://github.com/optimistdigital/nova-notes-field) : Nova Notes Field
 - [orlyapps/nova-belongsto-depend](https://github.com/orlyapps/nova-belongsto-depend) : BelongsTo Field with Dependency
 - [simplesquid/nova-advanced-number-field](https://github.com/simplesquid/nova-advanced-number-field) : An advanced number field for Laravel Nova
 - [spatie/nova-tags-field](https://github.com/spatie/nova-tags-field) : A tags field for Nova apps
