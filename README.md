@@ -101,11 +101,11 @@ Programming Bookmarks
 - [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) : JSON framework for .NET
 - [NLog](https://www.nuget.org/packages/NLog) : logging platform for .NET with rich log routing and management capabilities
 - [Nominatim.API](https://www.nuget.org/packages/Nominatim.API/) : Library for utilizing geocoding (forward and reverse), in addition to address lookups, with the Nominatim HTTP API
-- [ShopifySharp](https://github.com/nozzlegear/ShopifySharp) : A .NET library for Shopify
 - [Octokit](https://www.nuget.org/packages/Octokit) : an async-based GitHub API client library
 - [PrestaSharp](https://www.nuget.org/packages/PrestaSharp/) : CSharp .Net client library for the PrestaShop API via web service
 - [RestSharp](https://www.nuget.org/packages/RestSharp) : simple REST and HTTP API Client
 - [SharpZipLib](https://www.nuget.org/packages/SharpZipLib) : compression library for Zip, GZip, BZip2, and Tar
+- [ShopifySharp](https://github.com/nozzlegear/ShopifySharp) : A .NET library for Shopify
 - [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET) : a string composition library that can format data into a string with a minimal, intuitive syntax
 - [SqlKata](https://www.nuget.org/packages/SqlKata/) : a powerful Dynamic Sql Query Builder supporting Sql Server, MySql, PostgreSql, Oracle and Firebird
 
