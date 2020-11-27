@@ -99,8 +99,9 @@ Programming Bookmarks
 - [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : material Design templates and styles for WPF controls in the MahApps library
 - [MaterialDesignExtensions](https://www.nuget.org/packages/MaterialDesignExtensions) : provide additional controls and features for WPF apps
 - [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) : JSON framework for .NET
-- [Nominatim.API](https://www.nuget.org/packages/Nominatim.API/) : Library for utilizing geocoding (forward and reverse), in addition to address lookups, with the Nominatim HTTP API
 - [NLog](https://www.nuget.org/packages/NLog) : logging platform for .NET with rich log routing and management capabilities
+- [Nominatim.API](https://www.nuget.org/packages/Nominatim.API/) : Library for utilizing geocoding (forward and reverse), in addition to address lookups, with the Nominatim HTTP API
+- [ShopifySharp](https://github.com/nozzlegear/ShopifySharp) : A .NET library for Shopify
 - [Octokit](https://www.nuget.org/packages/Octokit) : an async-based GitHub API client library
 - [PrestaSharp](https://www.nuget.org/packages/PrestaSharp/) : CSharp .Net client library for the PrestaShop API via web service
 - [RestSharp](https://www.nuget.org/packages/RestSharp) : simple REST and HTTP API Client
