@@ -36,6 +36,7 @@ Programming Bookmarks
 
 ### Laravel Nova
 
+- [949mac/nova-readonlyonupdate](https://github.com/949mac/nova-readonlyonupdate) : Nova Readonly on Update
 - [anaseqal/nova-sidebar-icons](https://github.com/anaseqal/nova-sidebar-icons) : Nova Sidebar Icons (& collapsible group)
 - [bakerkretzmar/nova-settings-tool](https://github.com/bakerkretzmar/nova-settings-tool) : Laravel Nova tool to manage app settings
 - [bayareawebpro/nova-field-ckeditor](https://github.com/bayareawebpro/nova-field-ckeditor) : Laravel Nova - CkEditor v5 Field
