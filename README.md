@@ -85,7 +85,7 @@ Programming Bookmarks
 - [GitHub extension for Visual Studio](https://visualstudio.github.com/) : The easiest way to connect to your GitHub repositories in Visual Studio
 - [Download .NET SDKs for Visual Studio](https://dotnet.microsoft.com/download/visual-studio-sdks)
 
-#### NuGet Packages
+### NuGet Packages
 
 - [Automapper](https://www.nuget.org/packages/AutoMapper/) : a convention-based object-object mapper
 - [Bogus](https://www.nuget.org/packages/Bogus) : simple and sane fake data generator
@@ -113,8 +113,16 @@ Programming Bookmarks
 
 ## Power BI
 
-- [ALM Toolkit](https://www.sqlbi.com/tools/alm-toolkit/) : free and open-source tool to manage Microsoft Power BI datasets
+### Software
+
+- [ALM Toolkit](http://alm-toolkit.com/) : free and open-source tool to manage Microsoft Power BI datasets
+- [Tabular Editor](https://tabulareditor.com/) : a lightweight editor for SSAS Tabular Models built in .NET/WinForms
+- [DAX Studio](https://daxstudio.org/) : The ultimate tool for working with DAX queries
+
+### Altro
+
 - [Microsoft Power BI Community](https://community.powerbi.com/) : connect, learn and discuss with business intelligence experts and peers
+- [SQLBI](https://www.sqlbi.com/) : DAX Website
 
 ## Visual Studio Code
 
