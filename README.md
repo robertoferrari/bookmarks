@@ -33,6 +33,7 @@ Programming Bookmarks
 - [Laravel News](https://laravel-news.com/)
 - [Laravel Nova](https://nova.laravel.com/) : Beautifully-designed administration panel for Laravel
 - [Made with Laravel](https://madewithlaravel.com/) : Laravel showcase
+- [Laravel Enum](https://github.com/BenSampo/laravel-enum) : Simple, extensible and powerful enumeration implementation for Laravel
 
 ### Laravel Nova
 
@@ -70,6 +71,7 @@ Programming Bookmarks
 - [optimistdigital/nova-notes-field](https://github.com/optimistdigital/nova-notes-field) : Nova Notes Field
 - [orlyapps/nova-belongsto-depend](https://github.com/orlyapps/nova-belongsto-depend) : BelongsTo Field with Dependency
 - [simplesquid/nova-advanced-number-field](https://github.com/simplesquid/nova-advanced-number-field) : An advanced number field for Laravel Nova
+- [simplesquid/nova-enum-field](https://github.com/simplesquid/nova-enum-field) : An enum field for Laravel Nova
 - [spatie/nova-tags-field](https://github.com/spatie/nova-tags-field) : A tags field for Nova apps
 - [techouse/intl-date-time](https://github.com/techouse/intl-date-time) : International DateTime
 - [TitasGailius/nova-search-relations](https://github.com/TitasGailius/nova-search-relations) : Search relationships in Laravel Nova
