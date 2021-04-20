@@ -112,6 +112,7 @@ Programming Bookmarks
 - [ShopifySharp](https://github.com/nozzlegear/ShopifySharp) : A .NET library for Shopify
 - [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET) : a string composition library that can format data into a string with a minimal, intuitive syntax
 - [SqlKata](https://www.nuget.org/packages/SqlKata/) : a powerful Dynamic Sql Query Builder supporting Sql Server, MySql, PostgreSql, Oracle and Firebird
+- [WooCommerce.Net](https://github.com/XiaoFaye/WooCommerce.NET/) : NET library for calling WooCommerce/WordPress REST API with OAuth/JWT in .NET applications
 
 ## Power BI
 
