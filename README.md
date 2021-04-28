@@ -5,9 +5,12 @@ Programming Bookmarks
 
 - [ApexSQL Decrypt](https://www.apexsql.com/sql-tools-decrypt.aspx) : SQL database object decryption
 - [DBComparer](https://dbcomparer.com/) : Free compare database tool
+- [Docker](https://www.docker.com/) : Accelerate how you build, share and run modern applications
+- [Docker Desktop](https://www.docker.com/products/docker-desktop) : The fastest way to containerize applications on your desktop
 - [Evolus Pencil](https://pencil.evolus.vn/) : An open-source GUI prototyping tool that's available for ALL platforms
 - [Filezilla](https://filezilla-project.org/) : The free FTP solution
 - [GitHub Desktop](https://desktop.github.com/) : Focus on what matters instead of fighting with Git
+- [Kitematic](https://kitematic.com/) : Run docker containers through a simple, yet powerful graphical user interface
 - [LINQPad](https://www.linqpad.net/) : The .NET Programmer’s Playground
 - [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) : Integrated environment for managing any SQL infrastructure
 - [Microsoft Visual Studio 2019](https://visualstudio.microsoft.com/it/vs/) : Ambiente di sviluppo integrato
