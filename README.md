@@ -97,6 +97,7 @@ Programming Bookmarks
 - [CsvHelper](https://www.nuget.org/packages/CsvHelper) : a library for reading and writing CSV files
 - [DbUp-SqlServer](https://www.nuget.org/packages/dbup-sqlserver) : makes it easy to deploy and upgrade SQL Server databases by running change scripts
 - [DiffPlex](https://www.nuget.org/packages/DiffPlex) : diffing library that allows you to programatically create text diffs
+- [DistributedLock](https://www.nuget.org/packages/DistributedLock) : Provides easy-to-use mutexes, reader-writer locks, and semaphores that can synchronize across processes and machines. This is an umbrella package that brings in the entire family of DistributedLock.* packages (e. g. DistributedLock.SqlServer) as references.
 - [Dragablz](https://www.nuget.org/packages/Dragablz) : dragable and tearable tab control for WPF
 - [EPPlus](https://www.nuget.org/packages/EPPlus) : create advanced Excel spreadsheets using .NET
 - [ExcelDataReader](https://www.nuget.org/packages/ExcelDataReader) : ibrary for reading Microsoft Excel files (2.0-2007)
