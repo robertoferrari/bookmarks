@@ -37,6 +37,7 @@ Programming Bookmarks
 - [Laravel Nova](https://nova.laravel.com/) : Beautifully-designed administration panel for Laravel
 - [Made with Laravel](https://madewithlaravel.com/) : Laravel showcase
 - [Laravel Enum](https://github.com/BenSampo/laravel-enum) : Simple, extensible and powerful enumeration implementation for Laravel
+- [Laravel Examples](https://laravelexamples.com/) : Laravel code examples
 
 ### Laravel Nova
 
