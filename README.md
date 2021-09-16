@@ -102,6 +102,7 @@ Programming Bookmarks
 - [Dragablz](https://www.nuget.org/packages/Dragablz) : dragable and tearable tab control for WPF
 - [EPPlus](https://www.nuget.org/packages/EPPlus) : create advanced Excel spreadsheets using .NET
 - [ExcelDataReader](https://www.nuget.org/packages/ExcelDataReader) : ibrary for reading Microsoft Excel files (2.0-2007)
+- [FileHelpers](https://www.nuget.org/packages/FileHelpers/) : Open Source library for automatic formatted file read/write operations  
 - [FluentFTP](https://www.nuget.org/packages/FluentFTP) : FTP and FTPS client
 - [Flurl](https://www.nuget.org/packages/Flurl) : A fluent, portable URL builder
 - [MaterialDesignThemes](https://www.nuget.org/packages/MaterialDesignThemes) : material Design templates and styles for WPF controls in the MahApps library
