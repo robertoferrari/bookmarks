@@ -13,7 +13,7 @@ Programming Bookmarks
 - [Kitematic](https://kitematic.com/) : Run docker containers through a simple, yet powerful graphical user interface
 - [LINQPad](https://www.linqpad.net/) : The .NET Programmer’s Playground
 - [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) : Integrated environment for managing any SQL infrastructure
-- [Microsoft Visual Studio 2019](https://visualstudio.microsoft.com/it/vs/) : Ambiente di sviluppo integrato
+- [Microsoft Visual Studio](https://visualstudio.microsoft.com/it/vs/) : Ambiente di sviluppo integrato
 - [MySQL Workbench](https://www.mysql.com/it/products/workbench/) : Unified visual tool for database architects, developers, and DBAs
 - [Postman](https://www.postman.com/) : The Collaboration Platform for API Development
 - [Typora](https://typora.io/) : A truly minimal markdown editor
