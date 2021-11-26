@@ -5,6 +5,7 @@ Programming Bookmarks
 
 - [ApexSQL Decrypt](https://www.apexsql.com/sql-tools-decrypt.aspx) : SQL database object decryption
 - [DBComparer](https://dbcomparer.com/) : Free compare database tool
+- [DBeaver](https://dbeaver.io/) : Free universal database tool
 - [Docker](https://www.docker.com/) : Accelerate how you build, share and run modern applications
 - [Docker Desktop](https://www.docker.com/products/docker-desktop) : The fastest way to containerize applications on your desktop
 - [Evolus Pencil](https://pencil.evolus.vn/) : An open-source GUI prototyping tool that's available for ALL platforms
