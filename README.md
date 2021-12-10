@@ -92,6 +92,11 @@ Programming Bookmarks
 - [GitHub extension for Visual Studio](https://visualstudio.github.com/) : The easiest way to connect to your GitHub repositories in Visual Studio
 - [Download .NET SDKs for Visual Studio](https://dotnet.microsoft.com/download/visual-studio-sdks)
 
+### Extensions
+- [CodeMaid VS2022](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaidVS2022) : Visual Studio extension to cleanup and simplify our coding
+- [Configuration Transform](https://marketplace.visualstudio.com/items?itemName=GolanAvraham.ConfigurationTransform) : Automatically transform app.config or any other config during build process
+
+
 ### NuGet Packages
 
 - [Automapper](https://www.nuget.org/packages/AutoMapper/) : a convention-based object-object mapper
