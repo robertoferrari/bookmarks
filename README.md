@@ -39,6 +39,7 @@ Programming Bookmarks
 - [Made with Laravel](https://madewithlaravel.com/) : Laravel showcase
 - [Laravel Enum](https://github.com/BenSampo/laravel-enum) : Simple, extensible and powerful enumeration implementation for Laravel
 - [Laravel Examples](https://laravelexamples.com/) : Laravel code examples
+- [Filament](https://filamentphp.com/) : collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans
 
 ### Laravel Nova
 
