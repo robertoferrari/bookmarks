@@ -40,6 +40,7 @@ Programming Bookmarks
 - [Laravel Enum](https://github.com/BenSampo/laravel-enum) : Simple, extensible and powerful enumeration implementation for Laravel
 - [Laravel Examples](https://laravelexamples.com/) : Laravel code examples
 - [Filament](https://filamentphp.com/) : collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans
+- [Vemto](https://vemto.app/) : desktop application that will power the way you start new Laravel Projects
 
 ### Laravel Nova
 
