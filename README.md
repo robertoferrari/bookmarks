@@ -42,6 +42,10 @@ Programming Bookmarks
 - [Filament](https://filamentphp.com/) : collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans
 - [Vemto](https://vemto.app/) : desktop application that will power the way you start new Laravel Projects
 
+### Laravel Filament
+
+- [Making Magic with Laravel and Filament Admin](https://blog.rpillz.com/making-magic-with-laravel-filament-admin) : Pull a ready-made admin dashboard out of thin air!
+
 ### Laravel Nova
 
 - [949mac/nova-readonlyonupdate](https://github.com/949mac/nova-readonlyonupdate) : Nova Readonly on Update
