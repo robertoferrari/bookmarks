@@ -45,7 +45,13 @@ Programming Bookmarks
 
 ### Laravel Filament
 
+#### Tutorial
+
 - [Making Magic with Laravel and Filament Admin](https://blog.rpillz.com/making-magic-with-laravel-filament-admin) : Pull a ready-made admin dashboard out of thin air!
+
+#### Plugins
+
+- [Shield](https://github.com/bezhansalleh/filament-shield) : The easiest and most intuitive way to add access management to your admin panel resources, pages, widgets and settings 
 
 ### Laravel Nova
 
