@@ -175,6 +175,7 @@ Programming Bookmarks
 
 - [Mithril](https://mithril.js.org/) : Modern client-side JavaScript framework for building Single Page Applications
 - [Summernote](https://summernote.org/) : Super simple WYSIWYG editor on Bootstrap
+- [DataTables] (https://datatables.net/) : Add advanced interaction controls to your HTML tables
 
 ## Resources
 
