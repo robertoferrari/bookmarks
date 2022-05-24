@@ -174,6 +174,7 @@ Programming Bookmarks
 ## Javascript
 
 - [Mithril](https://mithril.js.org/) : Modern client-side JavaScript framework for building Single Page Applications
+- [Summernote](https://summernote.org/) : Super simple WYSIWYG editor on Bootstrap
 
 ## Resources
 
