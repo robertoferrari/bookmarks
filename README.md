@@ -154,6 +154,10 @@ Programming Bookmarks
 - [Microsoft Power BI Community](https://community.powerbi.com/) : connect, learn and discuss with business intelligence experts and peers
 - [SQLBI](https://www.sqlbi.com/) : DAX Website
 
+### Sviluppo
+
+- [microsoft/PowerBI-Developer-Samples](https://github.com/microsoft/PowerBI-Developer-Samples) : Power BI Embedded solutions in 5 different frameworks
+
 ## Visual Studio Code
 
 ### Extensions [Visual Studio Marketplace](https://marketplace.visualstudio.com/)
