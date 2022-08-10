@@ -106,7 +106,7 @@ Programming Bookmarks
 - [Download .NET SDKs for Visual Studio](https://dotnet.microsoft.com/download/visual-studio-sdks)
 
 ### Links
-- Convert Json to C# Classes Online(https://json2csharp.com/)
+- [Convert Json to C# Classes Online](https://json2csharp.com/)
 
 ### Extensions
 - [CodeMaid VS2022](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaidVS2022) : Visual Studio extension to cleanup and simplify our coding
