@@ -141,7 +141,8 @@ Programming Bookmarks
 - [SharpZipLib](https://www.nuget.org/packages/SharpZipLib) : compression library for Zip, GZip, BZip2, and Tar
 - [ShopifySharp](https://github.com/nozzlegear/ShopifySharp) : A .NET library for Shopify
 - [SmartFormat.NET](https://www.nuget.org/packages/SmartFormat.NET) : a string composition library that can format data into a string with a minimal, intuitive syntax
-- [SqlKata](https://www.nuget.org/packages/SqlKata/) : a powerful Dynamic Sql Query Builder supporting Sql Server, MySql, PostgreSql, Oracle and Firebird
+- [SlowCheetah](https://www.nuget.org/packages/SlowCheetah) : a string composition library that can format data into a string with a minimal, intuitive syntax
+- [SqlKata](https://www.nuget.org/packages/SqlKata/) : allows for configuration based XML transformations at build time
 - [WooCommerce.Net](https://github.com/XiaoFaye/WooCommerce.NET/) : NET library for calling WooCommerce/WordPress REST API with OAuth/JWT in .NET applications
 
 ## Power BI
