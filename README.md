@@ -29,6 +29,7 @@ Programming Bookmarks
 - [yarn](https://yarnpkg.com/lang/en/) : Fast, reliable, and secure dependency management
 - [Composer](https://getcomposer.org/) : A Dependency Manager for PHP
 - [Packagist](https://packagist.org/) : The main Composer repository: it aggregates public PHP packages installable with Composer
+- [https://dummyjson.com/] : Dummy/fake JSON data to use as placeholder in development or in prototype testing.
 
 ## Laravel
 
